@@ -1,5 +1,5 @@
-# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
+# 關於固定資料的資訊，請參閱
+# https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 one:
   title: MyString
   description: MyText
@@ -12,10 +12,9 @@ two:
   price: 9.99
 ruby:
   title: Programming Ruby 1.9
-  description: |
-    Ruby is the fastest growing and most exciting dynamic
-    language out there. If you need to get working programs
-    delivered fast, you should add Ruby to your toolbox.
+  description: >
+    Ruby 是當前發展最快、最令人興奮的動態語言之一。如果你需要快速交付
+    可運行的程式，你應該將 Ruby 加入你的工具箱。
   price: 49.50
   image_url: ruby.jpg
 
